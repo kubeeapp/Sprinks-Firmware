@@ -132,9 +132,9 @@ xhr.send(fd);
 const char sta_update_html[] PROGMEM = R"(<head>
 <title>Sprinks Firmware Update</title>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
-<link rel='stylesheet' href='http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css' type='text/css'>
-<script src='http://code.jquery.com/jquery-3.4.1.min.js' type='text/javascript'></script>
-<script src='http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js' type='text/javascript'></script>
+<link rel='stylesheet' href='https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css' type='text/css'>
+<script src='https://code.jquery.com/jquery-3.4.1.min.js' type='text/javascript'></script>
+<script src='https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js' type='text/javascript'></script>
 </head>
 <body>
 <div data-role='page' id='page_update'>

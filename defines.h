@@ -201,11 +201,11 @@ typedef unsigned long ulong;
 #define ADDR_NVM_OPTIONS       (ADDR_NVM_STNSPE+(MAX_EXT_BOARDS+1))  // options
 
 /** Default password, location string, weather key, script urls */
-#define DEFAULT_PASSWORD          "a6d82bced638de3def1e9bbb4983225c"  // md5 of 'opendoor'
-#define DEFAULT_LOCATION          "Boston,MA"
+#define DEFAULT_PASSWORD          "8b95c96832c05d0f5639b07493a881f8"  // md5 of 'opendoor'
+#define DEFAULT_LOCATION          "Baia Mare,RO"
 #define DEFAULT_WEATHER_KEY       ""
 #define DEFAULT_JAVASCRIPT_URL    "https://ui.opensprinkler.com/js"
-#define DEFAULT_WEATHER_URL       "weather.opensprinkler.com"
+#define DEFAULT_WEATHER_URL       "https://weather.opensprinkler.com"
 #define DEFAULT_IFTTT_URL         "maker.ifttt.com"
 
 /** Macro define of each option
